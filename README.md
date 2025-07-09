@@ -1,7 +1,5 @@
 # 🐶 SCT_ML_3 - Cats vs Dogs Image Classification Using SVM & VGG16
 
-![Cats vs Dogs Image Classification](https://github.com/BottomsNode/SCT_ML_3/blob/main/Task%20ML%203.png)
-
 ## 💡 Project Overview
 
 This project implements a **Support Vector Machine (SVM)** model to classify images of cats and dogs. Instead of training from scratch, we use **VGG16**, a powerful pre-trained CNN model, to extract high-level image features, which are then used to train the SVM.
